@@ -2,20 +2,19 @@
 Comparison of several regression models ranging from simple, such as Linear, to advanced models, such as CatBoost, on the Boston Housing Data set.
 
 <h3>List of all models:</h3>
-  "Linear Regression"\n
-  "Ridge"\n
-  "Lasso"\n
-  "Elastic Net"\n
-  "Decision Tree"\n
-  "Random Forest"\n
-  "Extra Trees"\n
-  "K Nearest Neighbors"\n
-  "Bagging Regressor"\n
-  "Gradient Boosting"\n
-  "XGBoost"\n
-  "CatBoost"\n
-  "AdaBoost"\n
-\n\n
+&nbsp;"Linear Regression" \
+&nbsp;"Ridge" \
+&nbsp;"Lasso" \
+&nbsp;"Elastic Net" \
+&nbsp;"Decision Tree" \
+&nbsp;"Random Forest" \
+&nbsp;"Extra Trees" \
+&nbsp;"K Nearest Neighbors" \
+&nbsp;"Bagging Regressor" \
+&nbsp;"Gradient Boosting" \
+&nbsp;"XGBoost" \
+&nbsp;"CatBoost" \
+&nbsp;"AdaBoost" \
 
 **Notes:**
 * Use 'pip install -r requirements.txt' to install all dependencies
