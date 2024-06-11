@@ -16,7 +16,7 @@ Comparison of several regression models ranging from simple, such as Linear, to 
   "CatBoost"
   "AdaBoost"
 
-***Notes:***
+**Notes:**
 * Use 'pip install -r requirements.txt' to install all dependencies
 * Currently flip-flops between Bagging Regressor and Gradient Boosting as the best model, depending on the data set. Should work on improving this.
 * Should add the Neural Network Regressors to the mix and compare performance (may be wise to run these in another script for time purposes and transfer the results)
