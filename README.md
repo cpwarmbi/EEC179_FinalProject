@@ -69,18 +69,10 @@ The script includes several visualizations:
 - Consider adding Neural Network Regressors to the comparison. Due to time constraints, these might be best run in a separate script, and the results can be transferred.
 - Any additional improvements or suggestions are welcome!
 
-## Contributing
-
-Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
 ## Authors
 
 - Corbin Warmbier
 - Akhil Sharma
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## File Structure
 
