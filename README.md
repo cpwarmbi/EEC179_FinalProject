@@ -50,7 +50,7 @@ Make sure you have Python and pip installed. You can create a virtual environmen
 To run the regression models comparison:
 
 ```sh
-python regression_models.py
+python3 regression_models.py
 ```
 
 ## Visualization
