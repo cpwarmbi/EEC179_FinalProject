@@ -29,18 +29,21 @@ Make sure you have Python and pip installed. You can create a virtual environmen
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/repo-name.git
-   cd repo-name```
+   cd repo-name
+   ```
 
 2. Create and activate a virtual environment:
 
    ```sh
    python3 -m venv myenv
-   source myenv/bin/activate```
+   source myenv/bin/activate
+   ```
 
 3. Install the dependencies:
 
    ```sh
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+   ```
 
 ### Running the Code
 
