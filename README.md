@@ -1,6 +1,3 @@
-It looks like you have a solid foundation for your project! Here's a revised version of your README file that should be easier to copy and paste into your GitHub repository:
-
-```markdown
 # Regression Models Comparison
 
 This project compares several regression models ranging from simple (such as Linear Regression) to advanced models (such as CatBoost) on the Boston Housing dataset.
